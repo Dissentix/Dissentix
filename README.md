@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 “Bug bounty hunter”<br>“Web penetration testing expert”<br>“Cyber ​​Security Researcher”
 
