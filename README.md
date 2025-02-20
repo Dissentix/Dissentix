@@ -1,6 +1,6 @@
 # 💫 About Me:
 interested in :<br>
-“Bug bounty hunter”<br>“Web penetration testing expert”<br>“Cyber ​​Security Researcher”
+“Bug bounty hunting”<br>“Web penetration testing”<br>“Cyber ​​Security Researching”
 
 
 ## 🌐 Socials:
