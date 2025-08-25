@@ -7,15 +7,15 @@
   <a href="https://hackerone.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerOne&logo=hackerone&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerone logo"  />
   </a>
-  <a href="https://t.me/ahmad_aiv01" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
-</a>
-<a href="https://instagram.com/ahmad.aiv01" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" alt="instagram logo"  />
-</a>
-<a href="https://discord.gg/C9EvGuz5" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30" alt="discord logo"  />
-</a>
+   <a href="https://t.me/ahmad_aiv01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://instagram.com/ahmad.aiv01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/C9EvGuz5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  </a>
   <a href="https://x.com/ahmad_aiv_01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
