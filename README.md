@@ -28,9 +28,9 @@
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,php," height="50" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,php" height="50" alt="languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,django,flask,,react,vue" height="50" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,django,flask,react,vue" height="50" alt="frameworks" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,graphql,aws,bash,docker,linux" height="50" alt="tools" />
   <br>
