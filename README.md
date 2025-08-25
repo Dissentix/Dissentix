@@ -7,12 +7,15 @@
   <a href="https://hackerone.com/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerOne&logo=hackerone&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerone logo"  />
   </a>
-  <a href="https://bugcrowd.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bugcrowd&logo=bugcrowd&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="bugcrowd logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mr-aivazi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
+  <a href="https://t.me/ahmad_aiv01" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+</a>
+<a href="https://instagram.com/ahmad.aiv01" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" alt="instagram logo"  />
+</a>
+<a href="https://discord.gg/C9EvGuz5" target="_blank">
+<img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30" alt="discord logo"  />
+</a>
   <a href="https://x.com/ahmad_aiv_01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
