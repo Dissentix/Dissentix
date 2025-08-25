@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Reza Aivazi</h1>
-<h3 align="center">A Bug Bounty Hunter & Security Researcher passionate about making the web a safer place.</h3>
+<h3 align="center">A Bug Bounty Hunter , Web App Penetration Tester & CyberSecurity Researcher passionate about making the web a safer place.</h3>
 
 <br>
 
