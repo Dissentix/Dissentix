@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://hackerone.com/YOUR_USERNAME" target="_blank">
+  <a href="https://hackerone.com/dissentix?type=user" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerOne&logo=hackerone&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="hackerone logo"  />
   </a>
    <a href="https://t.me/ahmad_aiv01" target="_blank">
@@ -28,11 +28,13 @@
 
 <h3 align="center">🛠️ Languages and Tools</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,php,rust" height="50" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,go,php," height="50" alt="languages" />
   <br>
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,django,flask,nestjs,react,vue" height="50" alt="frameworks" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,django,flask,,react,vue" height="50" alt="frameworks" />
   <br>
-  <img src="https://skillicons.dev/icons?i=tailwind,graphql,aws,bash,docker,linux" height="50" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,graphql,aws,bash,docker,linux" height="50" alt="tools" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,postman,nginx,cloudflare" height="50" alt="security tools" />
 </div>
 
 <br>
